@@ -24,3 +24,5 @@
 9)[Write a program to calculate the distance between two points.](day9.md)
 
 10)[Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](day10.md)
+
+11)[Given an integer, print "odd" if it's odd and print "even" otherwise.](day11.md)
