@@ -16,7 +16,7 @@
 
 6)[Hours and minutes ](1.7.md)
 
-7)[apple sharing](1.5.md)
+7)[area of triangle](1.5.md)
 
 
 8)[Apple Sharing](1.8.md)
@@ -44,3 +44,4 @@
 19)[jugsmugspugslite](3.S.md)
 
 20)[sum of dijit](sum.md)
+
