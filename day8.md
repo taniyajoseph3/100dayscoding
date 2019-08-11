@@ -1,0 +1,32 @@
+#N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket
+```
+Example 
+
+INPUT 
+4
+0
+0
+0
+
+OUTPUT
+4
+
+
+INPUT 
+0
+0
+4
+3
+
+OUTPUT
+5
+
+```
+x1 = int(input()) 
+
+y1 = int(input()) 
+x2 = int(input())
+y2 = int(input()) 
+Distance = (((x2-x1)**2)+((y2-y1)**2)) 
+result = (Distance**0.5) 
+print(result)
