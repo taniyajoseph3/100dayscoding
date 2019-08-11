@@ -11,7 +11,7 @@
 4)[Sum of Three Numbers](1.4.md)
 
 
-5)[Area of Triangle](1.6.md)
+5)[previous and next](1.6.md)
 
 
 6)[Hours and minutes ](1.7.md)
