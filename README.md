@@ -9,3 +9,6 @@
 3)[Write a program that greets the user by printing the word "Hello", a comma, the name of the user and an exclamation mark after it. See the examples below.](day3.md)
 
 4)[Write a program that reads an integer number and prints its previous and next numbers. See the example below.](day4.md)
+
+
+5)[Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?](day5.md)
