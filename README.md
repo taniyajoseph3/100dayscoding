@@ -17,3 +17,8 @@
 6)[Given two timestamps of the same day: a number of hours, minutes and seconds for both of the timestamps. ](day6.md)
 
 7)[N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket](day7.md)
+
+
+8)[Write a program to calculate the distance between two points.](day8.md)
+
+9)[Write a program to calculate the distance between two points.](day9.md)
