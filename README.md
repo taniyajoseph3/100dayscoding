@@ -12,3 +12,7 @@
 
 
 5)[Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?](day5.md)
+
+
+6)[Given two timestamps of the same day: a number of hours, minutes and seconds for both of the timestamps. ](day6.md)
+
