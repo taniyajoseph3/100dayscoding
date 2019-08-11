@@ -1,0 +1,13 @@
+#Write a program that reads an integer number and prints its previous and next numbers. See the example below.
+
+```
+Example input
+3900
+
+Example output
+1 65
+
+```
+
+s = int(input())
+print(s // 3600, int(s / 3600 * 60))
