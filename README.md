@@ -42,3 +42,5 @@
 18)[jugs mugs pugs plus](3.U.md)
 
 19)[jugsmugspugslite](3.S.md)
+
+20)[sum of dijit](sum.md)
