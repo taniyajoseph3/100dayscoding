@@ -28,3 +28,7 @@
 11)[Given an integer, print "odd" if it's odd and print "even" otherwise.](day11.md)
 
 12)[Given three integers, print the least of them.](day12.md)
+
+13)[Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](day13.md)
+
+14)[Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". Otherwise, it prints the number.](day14.md)
