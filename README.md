@@ -14,7 +14,7 @@
 5)[Area of Triangle](1.6.md)
 
 
-6)[Hello Harry! ](1.7.md)
+6)[Hours and minutes ](1.7.md)
 
 7)[Previous and next Numbers](1.5.md)
 
