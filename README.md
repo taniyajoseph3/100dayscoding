@@ -14,7 +14,7 @@
 5)[previous and next](1.6.md)
 
 
-6)[two time stamp ](1.7.md)
+6)[hugleft ](1.7.md)
 
 7)[area of triangle](1.5.md)
 
