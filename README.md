@@ -38,3 +38,7 @@
 16)[digit of number](5.D.md)
 
 17)[jug mugs pugs](3.R.md)
+
+18)[jugs mugs pugs plus](3.U.md)
+
+19)[jugsmugspugslite](3.S.md)
