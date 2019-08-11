@@ -22,3 +22,5 @@
 8)[Write a program to calculate the distance between two points.](day8.md)
 
 9)[Write a program to calculate the distance between two points.](day9.md)
+
+10)[Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](day10.md)
