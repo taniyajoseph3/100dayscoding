@@ -50,3 +50,5 @@
 22)[timestamp](2.3.md)
 
 23)[JugsMugsPugsPlusReverse Range](3.W.md)
+
+24)[JugsMugsPugs Special](3.X.md)
