@@ -6,7 +6,7 @@
 
 2)[Hug Right](1.2.md)
 
-3)[Hug Left](1.3.md)
+3)[Hello hari](1.3.md)
 
 4)[Sum of Three Numbers](1.4.md)
 
