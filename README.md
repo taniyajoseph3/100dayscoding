@@ -6,7 +6,7 @@
 
 2)[Hug Right](1.2.md)
 
-3)[Hello hari](1.3.md)
+3)[Hello harry](1.3.md)
 
 4)[Sum of Three Numbers](1.4.md)
 
@@ -43,7 +43,7 @@
 
 19)[jugsmugspugslite](3.S.md)
 
-20)[sum of dijit](sum.md)
+20)[sum of digit](sum.md)
 
 21)[hours and minute](1.9.md)
 
