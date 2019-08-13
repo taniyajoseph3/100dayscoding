@@ -51,4 +51,4 @@
 
 23)[JugsMugsPugsPlusReverse Range](3.W.md)
 
-24)[JugsMugsPugs Special](3.X.md)
+24)[JugsMugsPugs Special](3.x.md)
